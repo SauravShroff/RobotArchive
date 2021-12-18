@@ -1,0 +1,2 @@
+raspi-2
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/ros_workspace/argo/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/ros_workspace/argo/install -G Unix Makefiles

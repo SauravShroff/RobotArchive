@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/ros_workspace/argo/devel
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 1.0.1
+Cflags: -I/home/turtlebot/ros_workspace/argo/devel/include -I/home/turtlebot/ros_workspace/argo/src/raspi-2/include
+Libs: -L${prefix}/lib 
+Requires: 

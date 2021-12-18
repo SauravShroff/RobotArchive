@@ -1,0 +1,8 @@
+ros_workspace/RPi_cam filter=lfs diff=lfs merge=lfs -text
+Desktop/2021-11-28-12-54-50.bag filter=lfs diff=lfs merge=lfs -text
+Desktop/lab4_starter filter=lfs diff=lfs merge=lfs -text
+Desktop/manual_control filter=lfs diff=lfs merge=lfs -text
+Desktop/raspi-2 filter=lfs diff=lfs merge=lfs -text
+Desktop/test.jpg filter=lfs diff=lfs merge=lfs -text
+Videos/record.bag filter=lfs diff=lfs merge=lfs -text
+Videos/record_remap2.bag filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,17 @@
+logitech filter=lfs diff=lfs merge=lfs -text
+106lab4 filter=lfs diff=lfs merge=lfs -text
+RPi_cam filter=lfs diff=lfs merge=lfs -text
+argo filter=lfs diff=lfs merge=lfs -text
+106lab4/build filter=lfs diff=lfs merge=lfs -text
+RPi_cam/2021-11-28-12-41-21.bag filter=lfs diff=lfs merge=lfs -text
+RPi_cam/src filter=lfs diff=lfs merge=lfs -text
+argo/devel filter=lfs diff=lfs merge=lfs -text
+argo/src filter=lfs diff=lfs merge=lfs -text
+logitech/build filter=lfs diff=lfs merge=lfs -text
+106lab4/devel filter=lfs diff=lfs merge=lfs -text
+106lab4/src filter=lfs diff=lfs merge=lfs -text
+RPi_cam/build filter=lfs diff=lfs merge=lfs -text
+RPi_cam/devel filter=lfs diff=lfs merge=lfs -text
+argo/build filter=lfs diff=lfs merge=lfs -text
+logitech/devel filter=lfs diff=lfs merge=lfs -text
+logitech/src filter=lfs diff=lfs merge=lfs -text

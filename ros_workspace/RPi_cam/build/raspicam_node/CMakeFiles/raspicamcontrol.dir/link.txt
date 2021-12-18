@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/turtlebot/ros_workspace/RPi_cam/devel/lib/libraspicamcontrol.a  CMakeFiles/raspicamcontrol.dir/src/RaspiCamControl.c.o
+/usr/bin/ranlib /home/turtlebot/ros_workspace/RPi_cam/devel/lib/libraspicamcontrol.a

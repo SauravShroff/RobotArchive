@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/turtlebot/ros_workspace/106lab4/install/setup.sh

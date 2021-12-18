@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/turtlebot/ros_workspace/argo/devel/lib/libraspicli.a  CMakeFiles/raspicli.dir/src/RaspiCLI.c.o
+/usr/bin/ranlib /home/turtlebot/ros_workspace/argo/devel/lib/libraspicli.a

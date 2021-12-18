@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/turtlebot/ros_workspace/argo/install/setup.sh

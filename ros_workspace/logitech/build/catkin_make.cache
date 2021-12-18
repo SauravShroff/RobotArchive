@@ -1,0 +1,2 @@
+lab4_cam:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/ros_workspace/logitech/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/ros_workspace/logitech/install -G Unix Makefiles
